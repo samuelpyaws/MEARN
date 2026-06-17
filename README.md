@@ -8,16 +8,16 @@ Connect MongoDB
 Create APIs
 Handle requests
 
-Example
+#Example
 console.log("Hello Node");
 Run:
 node app.js
 
-STUDENT LETS COME TO PHASE 2:
+#STUDENT LETS COME TO PHASE 2:
 EXPRESS JS?
 express is framework build on node.js.
 
-Without Express:
+#Without Express:
 const http = require("http");
 With Express:
 const express = require("express");
