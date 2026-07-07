@@ -16,6 +16,7 @@ node app.js
 #STUDENT LETS COME TO PHASE 2:
 EXPRESS JS?
 express is framework build on node.js.
+If you got error in installation.Recovery issue.
 <img width="516" height="200" alt="image" src="https://github.com/user-attachments/assets/45a6664c-f91f-4e15-95d7-5a0171a23a63" />
 // Import the built-in HTTP module.
 // 'http' allows Node.js to create web servers.
