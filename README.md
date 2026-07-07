@@ -53,6 +53,52 @@ server.listen(3000, () => {
     // Print a message in the terminal.
     console.log('Server is running on http://localhost:3000');
 
+
+#PLACEMENTS LEVEL
+Questions similar to those commonly reported in interviews at companies such as:
+
+Accenture
+Deloitte
+Cognizant
+Capgemini
+IBM
+LTIMindtree
+TCS Digital
+Infosys Specialist
+HCL
+Product-based startups
+
+
+#Topics
+Event Loop
+Callback Queue
+Promises
+Async/Await
+Streams
+Buffers
+File System
+HTTP Module
+EventEmitter
+Cluster
+Worker Threads
+Middleware
+Routing
+Router vs App
+Error Handling
+JWT
+Authentication
+Authorization
+REST APIs
+Status Codes
+CORS
+Cookies & Sessions
+Environment Variables
+MongoDB CRUD
+Mongoose
+Aggregation (basic)
+MVC
+Security
+Performance
 });
 
 #Without Express:
